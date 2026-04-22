@@ -224,7 +224,7 @@ plotly>=5.18.0
 
 | Metric | Value |
 |---|---|
-| RF Cross-Validated Accuracy (5-fold) | ~78% |
+| RF Cross-Validated Accuracy (5-fold) | ~71% |
 | Positional classes | AT / MT / DF |
 | Archetype count | 8 (GMM) |
 | PCA variance retained | 90% |
